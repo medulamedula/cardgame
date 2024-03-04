@@ -1,2 +1,2 @@
-# fortune
+# Fortune
 play card
